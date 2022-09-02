@@ -1,0 +1,5 @@
+scoring/
+data/
+models/
+notebooks/
+__pycache__/
